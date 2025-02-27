@@ -1,15 +1,19 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+
 <h1 align="center">Hi There!👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate in Web development and Operating System Design.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left">
     <a href="https://github.com/mehedi-86?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mehedi-86?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mehedi-86?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+    </a>
     <a href="https://github.com/mehedi-86?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mehedi-86?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mehedi-86?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=mehedi-86&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mehedi-86" />
 </p>
+
 <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-86&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-86" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi-86" alt="mehedi-86" /></a> </p>
 
