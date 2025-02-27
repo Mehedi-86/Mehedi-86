@@ -2,8 +2,8 @@
 <h1 align="center">Hi There!👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate in Web development and Operating System Design.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-86&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-86" /> </p>
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi-86" alt="mehedi-86" /></a> </p>
 
