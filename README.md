@@ -32,7 +32,7 @@ I’m pursuing **Computer Science** at [**KUET**](https://www.kuet.ac.bd/) 🏫
 🔗 [GitHub Portfolio](https://github.com/Mehedi-86/Mehedi-86)  
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
     <a href="https://www.facebook.com/share/1A9zUqBkVa/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
