@@ -97,8 +97,7 @@ I’m pursuing **Computer Science** at [**KUET**](https://www.kuet.ac.bd/) 🏫
   <br>
   
   <!-- Overall Stats & Most Used Languages -->
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedi-86&theme=gruvbox" alt="Overall Stats" width="32%">
-  
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedi-86&theme=gruvbox" alt="Overall Stats" width="32%"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi-86&layout=compact&theme=default" alt="Most Used Languages" width="32%">
   <img src="https://github-readme-stats.vercel.app/api?username=mehedi-86&theme=default&show_icons=true" alt="GitHub Stats" width="32%">
 
