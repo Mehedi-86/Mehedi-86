@@ -20,21 +20,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🏫 I’m currently studying **Computer Science** at [**KUET**](https://www.kuet.ac.bd/)
+## 🌟 About Me
 
-- 🔭 I’m currently working on **Database Systems**
+🎓 **Currently Studying:**  
+I’m pursuing **Computer Science** at [**KUET**](https://www.kuet.ac.bd/) 🏫  
 
-- 🌱 I’m currently learning **ASP.net,Web Programming**
+📬 **How to Reach Me:**  
+✉️ Email: [r4bbystd3@gmail.com](mailto:r4bbystd3@gmail.com)  
 
-- 👯 I’m looking to collaborate on **Embedded Systems and IoT**
+💼 **Know About My Experiences:**  
+🔗 [GitHub Portfolio](https://github.com/Mehedi-86/Mehedi-86)  
 
-- 🤝 I’m looking for help with **Information Systems Design**
-
-- 💬 Ask me about **Desktop**
-
-- 📫 How to reach me **r4bbystd3@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Mehedi-86/Mehedi-86](https://github.com/Mehedi-86/Mehedi-86)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
