@@ -20,13 +20,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## 🌟 About Me
+<h1 align="left">🌟 About Me</h1>
 
-🎓 **Currently Studying:** I’m pursuing **Computer Science** at [**KUET**](https://www.kuet.ac.bd/) 🏫 
+🎓 **Currently Studying:** I’m pursuing **Computer Science** at [**KUET**](https://www.kuet.ac.bd/) 🏫  
  
-📬 **How to Reach Me:**  ✉️ Email: [r4bbystd3@gmail.com](mailto:r4bbystd3@gmail.com)  
+📬 **How to Reach Me:** ✉️ Email: [r4bbystd3@gmail.com](mailto:r4bbystd3@gmail.com)  
 
-💼 **Know About My Experiences:**  🔗 [GitHub Portfolio](https://github.com/Mehedi-86/Mehedi-86)  
+💼 **Know About My Experiences:** 🔗 [GitHub Portfolio](https://github.com/Mehedi-86/Mehedi-86)
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
