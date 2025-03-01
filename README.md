@@ -31,19 +31,16 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-    <a href="https://www.facebook.com/share/1A9zUqBkVa/" target="_blank">
+    <a href="https://www.linkedin.com/in/mehedi-hasan86/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+        alt="Mehedi Hasan LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://www.facebook.com/share/1A9zUqBkVa/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-        alt="Facebook" height="30" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/mehedi-hasan86/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" 
-        alt="Connect on LinkedIn" height="30" style="vertical-align: middle;" />
-    </a>
-    <a href="mailto:rabby2107086@stud.kuet.ac.bd">
-        <img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" 
-        alt="Email Me" height="30" style="vertical-align: middle;" />
+        alt="Mehedi Hasan Facebook" height="30" width="40" />
     </a>
 </p>
+
 
 
 # 💻 Tech Stack (I am interested in):
