@@ -91,7 +91,7 @@
   <!-- First Row: GitHub Stats & Streak Stats (Side by Side) -->
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=mehedi-86&theme=default&show_icons=true" alt="GitHub Stats" width="48%">
-    
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-86&theme=default" alt="GitHub Streak Stats" width="48%">
   </div>
 
   <br>
