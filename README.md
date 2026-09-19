@@ -26,7 +26,6 @@
  
 📬 **How to Reach Me:** ✉️ Email: [r4bbystd3@gmail.com](mailto:r4bbystd3@gmail.com)  
 
-💼 **Know About My Experiences:** 🔗 [GitHub Portfolio](https://github.com/Mehedi-86?tab=repositories)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
